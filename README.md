@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saaad J Khan</h1>
+<h1 align="center">Hi, I'm Saaad J. Khan</h1>
 <h3 align="center">An Intermediate level python developer</h3>
 
 <p align="left"> <a href="https://twitter.com/khansaadad" target="blank"><img src="https://img.shields.io/twitter/follow/khansaadad?logo=twitter&style=for-the-badge" alt="khansaadad" /></a> </p>
