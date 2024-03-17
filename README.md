@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/heysaadad" target="blank"><img src="https://img.shields.io/twitter/follow/khansaadad?logo=twitter&style=for-the-badge" alt="heysaadad" /></a> </p>
 
-- I’m currently learning **3D Animation, Vfx**
+- I’m currently learning **Augmented Reality**
 
-- Ask me about **Python, Django**
+- Ask me about **Python, Django, Laravel**
 
-- How to reach me **heysaadad@gmail.com**
+- How to reach me **saadadjkhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
