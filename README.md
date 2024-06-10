@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiast Software Developer<br>Current building SaaS, Augmented Reality products
+Enthusiast Software Developer<br>Currently building SaaS, Augmented Reality products
 
 
 ## 🌐 Socials:
